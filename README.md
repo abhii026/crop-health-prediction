@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 PlantGuard — Plant Disease Prediction from Environmental Data
 
 > A machine learning project that predicts whether a crop is Healthy or Diseased using temperature, humidity, rainfall, and soil pH — comparing Logistic Regression and Random Forest.
@@ -144,3 +145,6 @@ CA2 Project — Data Analytics / Machine Learning
 ## 📄 License
 
 This project is for educational purposes only.
+=======
+# Plant-Disease-Classification
+>>>>>>> 5311306c4a5585ec2ca6d162dd58128fa0c1af4e
